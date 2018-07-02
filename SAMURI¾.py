@@ -116,12 +116,12 @@ helpMessage ="""╔══════════════════
 ╠❂➣『Red2/3 Rk』
 ╠═════════════════
 ║            ─┅═✥ᵀᴴᴬᴵᴸᴬᴺᴰ✥═┅─
-║ •─✯͜͡ ✯RED★SAMURI★SELFBOT✯͜͡ ✯─•
+║ •─✯͜͡ ✯พี่โจ★SAMURI★SELFBOT✯͜͡ ✯─•
 ╠══════════════════"""
 helpMessage2 ="""╔══════════════════ 
-║  🌾RED BOT LINE THAILAND🌾
+║   [พี่โจ BOT LINE THAILAND🌾
 ║    ─┅═✥👊ᵀᴴᴬᴵᴸᴬᴺᴰ👊✥═┅─
-║  💀[RED SAMURI SELFBOT]💀
+║  💀[พี่โจ SAMURI SELFBOT]💀
 ╠══════════════════ 
 ║       ✟ New function ✟
 ╠═════════════════
